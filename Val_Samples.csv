@@ -1,0 +1,16 @@
+age_group,sex_at_birth,combined_race,image_name,image_shot,fitzpatrick_scale,textures,body_parts,condition_symptoms,other_symptoms,related_category,condition_duration,dermatologist_fitzpatrick_diagnosis,Expected Condition
+age_unknown,unspecified,white,-3205742176803893704.png,close up,fst3, raised or bumpy, foot top or side, pain, no relevant symptoms,rash,one day,FST2,Inflicted skin lesions
+age_60_to_69,female,white,-4649063046758807338.png,at distance,fst4, raised or bumpy, leg, increasing size, no relevant symptoms,rash,less than one week,FST3,Eczema
+age_18_to_29,male,white,-7935950081089116729.png,at distance,fst3, rough or flaky, head or neck, itching, no relevant symptoms,rash,one day,FST3,Acne
+age_unknown,unspecified,white,-446206036030978724.png,close up,fst3, flat, other, burning, no relevant symptoms,rash,more than five years,FST4,Intertrigo
+age_unknown,unspecified,two or more after mitigation,-6754223996189969134.png,at an angle,fst5, raised or bumpy, arm, itching, no relevant symptoms,rash,less than one week,FST5,Impetigo
+age_50_to_59,female,white,4091225911888174490.png,close up,fst1, fluid filled, arm, pain, no relevant symptoms,rash,less than one week,FST1,Drug Rash
+age_unknown,male,asian,-3779989361448224309.png,at distance,fst4, rough or flaky, back of hand, pain, no relevant symptoms,other issue description,three to twelve months,FST3,Eczema
+age_unknown,unspecified,white,-4893312442758095455.png,at distance,fst3, raised or bumpy, leg, itching, no relevant symptoms,other issue description,unknown,FST3,Allergic Contact Dermatitis
+age_30_to_39,female,asian,-6544442737462623993.png,close up,none identified, rough or flaky, other, no relevant experience, no relevant symptoms,acne,one to three months,FST4,Acne
+age_unknown,unspecified,two or more after mitigation,-3796420587199097151.png,close up,fst2, rough or flaky, back of hand, pain, no relevant symptoms,pigmentary problem,one to four weeks,FST4,Eczema
+age_40_to_49,female,white,-4335509512864210611.png,at distance,fst4, fluid filled, leg, itching, no relevant symptoms,rash,one day,FST3,Insect Bite
+age_unknown,unspecified,white,-923054950838727613.png,close up,fst3, raised or bumpy, head or neck, itching, no relevant symptoms,rash,less than one week,FST3,Eczema
+age_unknown,unspecified,white,-2197355568033743807.png,close up,fst3, raised or bumpy, head or neck, pain, no relevant symptoms,rash,one to three months,FST2,Irritant Contact Dermatitis
+age_18_to_29,female,black or african american,-773894958411105641.png,close up,fst3, rough or flaky, palm, burning, joint pain,rash,one day,FST3,Urticaria
+age_unknown,unspecified,black or african american,-1153384974921559234.png,close up,fst3, raised or bumpy, arm, itching, no relevant symptoms,other issue description,less than one week,FST5,Allergic Contact Dermatitis
