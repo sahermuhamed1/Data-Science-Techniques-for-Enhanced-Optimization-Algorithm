@@ -32,7 +32,23 @@ Please note: This dataset contains images of medical conditions, some of which m
 *   Feature Engineering Part 2
 *   Rename the Columns and its Values
 *   Build Neural Network Model
-*   Data Visualization
+*   Data Visualization\
+
+---
+
+
+## To access the Documentation that contains a step by step guide click [HERE](https://github.com/sahermuhamed1/Predictive-Modeling-for-Skin-Condition-Image-Network-SCIN-/blob/main/Data%20Preprocessing%20Documentation.docx)
+
+## To access the Data Before Preprocessing click [HERE](https://github.com/sahermuhamed1/Predictive-Modeling-for-Skin-Condition-Image-Network-SCIN-/blob/main/Original_dataset.csv)
+
+## To access the Data After Preprocessing click [HERE](https://github.com/sahermuhamed1/Predictive-Modeling-for-Skin-Condition-Image-Network-SCIN-/blob/main/Preproccessed_dataset.csv)
+
+## To access the 15 Valid Records click [HERE](https://github.com/sahermuhamed1/Predictive-Modeling-for-Skin-Condition-Image-Network-SCIN-/blob/main/Val_Samples.csv)
+
+## There is Two Notebooks I Used:
+
+*  First Notebook is for data preproccessing and handeling the *Structured Data*, to acces it click [HERE](https://github.com/sahermuhamed1/Predictive-Modeling-for-Skin-Condition-Image-Network-SCIN-/blob/main/scin_notebook.ipynb)
+*  Second Notebook is for image preprocessing and validate records, to access it click [HERE](https://github.com/sahermuhamed1/Predictive-Modeling-for-Skin-Condition-Image-Network-SCIN-/blob/main/preprocessing.ipynb)
 
 
 
