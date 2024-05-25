@@ -8,7 +8,7 @@ The data is stored in the [dx-scin-public-data bucket on Google Cloud Storage](h
 
 Please note: This dataset contains images of medical conditions, some of which may be sensitive and/or graphic in nature.
 
-##Known issues:
+## Known issues:
 
 * There are 15 images that are duplicates (and appear 42 times total) in the data. Because this data was used for the paper, it's been included in the release.
 * There are 48 cases where the case is marked as gradable but no skin condition
