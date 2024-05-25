@@ -1,4 +1,4 @@
-# Using Data Science Techniques for SCIN Data Set
+# Using Data Science Techniques for SCIN Dataset.🛠️
 
 The SCIN (Skin Condition Image Network) open access dataset aims to supplement publicly available dermatology datasets from health system sources with representative images from internet users. To this end, the SCIN dataset was collected from Google Search users in the United States through a voluntary, consented image donation application. The SCIN dataset is intended for health education and research, and to increase the diversity of dermatology images available for public use.
 
