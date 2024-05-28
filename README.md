@@ -1,4 +1,8 @@
-# Using Data Science Techniques for SCIN Dataset.🛠️
+# Using Data Science Techniques for SCIN Dataset to Enhanced Secretary Bird Optimization Algorithm for Image Segmentation Research Paper.🛠️
+
+### The data science techniques utilized in this repository aim to enhance the Secretary Bird Optimization Algorithm for image segmentation. This work is a collaborative effort with a dedicated team, contributing to the advancement of research in this area.
+
+### To access Enhanced Secretary Bird Optimization Algorithm for Image Segmentation Paper click [HERE](https://github.com/sahermuhamed1/Predictive-Modeling-for-Skin-Condition-Image-Network-SCIN-/blob/main/An%20Enhanced%20Secretary%20Bird%20Optimization%20Algorithm%20for%20Image.pdf)
 
 The SCIN (Skin Condition Image Network) open access dataset aims to supplement publicly available dermatology datasets from health system sources with representative images from internet users. To this end, the SCIN dataset was collected from Google Search users in the United States through a voluntary, consented image donation application. The SCIN dataset is intended for health education and research, and to increase the diversity of dermatology images available for public use.
 
@@ -6,18 +10,10 @@ The SCIN dataset contains 5,000+ volunteer contributions (10,000+ images) of com
 
 The data is stored in the [dx-scin-public-data bucket on Google Cloud Storage](https://console.cloud.google.com/storage/browser/dx-scin-public-data). Check out the [`load_SCIN.ipynb`](load_SCIN.ipynb) notebook for a quick review of how to access the dataset and the (Dataset Description) for an overview of its schema.
 
-Please note: This dataset contains images of medical conditions, some of which may be sensitive and/or graphic in nature.
-
-## Known issues:
-
-* There are 15 images that are duplicates (and appear 42 times total) in the data. Because this data was used for the paper, it's been included in the release.
-* There are 48 cases where the case is marked as gradable but no skin condition
-  label is present. This happens for cases where they were marked as ungradable
-  due to multiple conditions present.
-* [Issue #1](https://github.com/google-research-datasets/scin/issues/1): 1 image file is missing
-
+Note: This dataset contains images of medical conditions, some of which may be sensitive and/or graphic in nature.
 
 ## Data Science Life Cycle:
+
 *   Defining SCIN Data Set
 * 	Defines Global Parameters for GCP
 *   Dataset Schema
@@ -33,6 +29,19 @@ Please note: This dataset contains images of medical conditions, some of which m
 *   Rename the Columns and its Values
 *   Build Neural Network Model
 *   Data Visualization\
+
+
+![Flow Chart](Flow%20Chart.png)
+
+
+## Known issues:
+
+* There are 15 images that are duplicates (and appear 42 times total) in the data. Because this data was used for the paper, it's been included in the release.
+* There are 48 cases where the case is marked as gradable but no skin condition
+  label is present. This happens for cases where they were marked as ungradable
+  due to multiple conditions present.
+* [Issue #1](https://github.com/google-research-datasets/scin/issues/1): 1 image file is missing
+
 
 ---
 
