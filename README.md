@@ -1,6 +1,6 @@
 # Using Data Science Techniques for SCIN Dataset to Enhanced Secretary Bird Optimization Algorithm for Image Segmentation Research Paper.🛠️
 
-### The data science techniques utilized in this repository aim to enhance the Secretary Bird Optimization Algorithm for image segmentation. This work is a collaborative effort with a dedicated team, contributing to the advancement of research in this area.
+### The data science techniques utilized in this repository aim to enhance Optimization Algorithm for image segmentation. This work is a collaborative effort with a dedicated team, contributing to the advancement of research in this area.
 
 ### To access Enhanced Secretary Bird Optimization Algorithm for Image Segmentation Paper click [HERE](https://github.com/sahermuhamed1/Predictive-Modeling-for-Skin-Condition-Image-Network-SCIN-/blob/main/An%20Enhanced%20Secretary%20Bird%20Optimization%20Algorithm%20for%20Image.pdf)
 
