@@ -1,4 +1,4 @@
-# Using Data Science Techniques for SCIN Dataset to Enhanced Secretary Bird Optimization Algorithm for Image Segmentation Research Paper.🛠️
+# Using Data Science Preprocessing Techniques for SCIN Dataset to Enhanced Secretary Bird Optimization Algorithm for Image Segmentation Research Paper.🛠️
 
 ### The data science techniques utilized in this repository aim to enhance Optimization Algorithm for image segmentation. This work is a collaborative effort with a dedicated team, contributing to the advancement of research in this area.
 
