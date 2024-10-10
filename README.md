@@ -2,7 +2,7 @@
 
 ### The data science techniques utilized in this repository aim to enhance Optimization Algorithm for image segmentation. This work is a collaborative effort with a dedicated team, contributing to the advancement of research in this area.
 
-### To access Enhanced Secretary Bird Optimization Algorithm for Image Segmentation Paper click [HERE](https://github.com/sahermuhamed1/Predictive-Modeling-for-Skin-Condition-Image-Network-SCIN-/blob/main/An%20Enhanced%20Secretary%20Bird%20Optimization%20Algorithm%20for%20Image.pdf)
+### To access Enhanced Secretary Bird Optimization Algorithm for Image Segmentation Paper click [HERE](https://github.com/sahermuhamed1/Data-Science-Techniques-for-Enhanced-Optimization-Algorithm/blob/main/Dermatology_Paper.pdf)
 
 The SCIN (Skin Condition Image Network) open access dataset aims to supplement publicly available dermatology datasets from health system sources with representative images from internet users. To this end, the SCIN dataset was collected from Google Search users in the United States through a voluntary, consented image donation application. The SCIN dataset is intended for health education and research, and to increase the diversity of dermatology images available for public use.
 
